@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Research Project Implementation
 
 ## Data, script and charts for the research project "Scientometric investigation of the etymology of the Tendaguru dinosaurs"
