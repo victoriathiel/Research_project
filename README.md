@@ -16,6 +16,3 @@
 	This contains the all figures made to visualize the data set. It includes the etymology of the names split into genera and species, a time line of the publications in which the specimens were described, and a map to show the geographical distribution of the publications.
 
 =======
-# Research_project
-## collaborated with Meghan Gallaspy
->>>>>>> feef6780d3b2ef4699c66480fe42b96e456c8b1b
